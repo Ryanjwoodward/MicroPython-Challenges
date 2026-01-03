@@ -28,9 +28,6 @@ Below is a **progressive, challenge-based curriculum**, ordered from **absolute 
 6. Experiment with integer vs float division
 7. Convert between `int`, `float`, and `str`
 8. Practice multiline input in the REPL
-9. Trigger and catch a `SyntaxError`
-10. Restart the REPL and re-run previous commands
-    
 
 ---
 
