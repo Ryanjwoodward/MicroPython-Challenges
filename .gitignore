@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# MicroPython compiled files
+*.mpy
+
+# Virtual environments (if you ever add one)
+venv/
+.env/
+.venv/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Local helper scripts
+warp.sh
