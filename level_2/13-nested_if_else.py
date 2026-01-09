@@ -18,3 +18,4 @@ def withdraw(pin, amount):
 withdraw(1234, 600)
 withdraw(1124, 600)
 withdraw(1234, 70000)
+withdraw(1234, 0)
